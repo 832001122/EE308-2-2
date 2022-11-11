@@ -1,0 +1,22 @@
+<view>
+  <!-- 背景图片设置 -->
+  <image class="backGround" src='https://res09.bignox.com/appcenter/cn/taptap-game-image/f816d0441586d2dc2756151aefa423df'  style="position: absolute; left: -4rpx; top: 2rpx">
+  </image>
+  <!-- 背景图片设置 -->
+  <!-- 消息提示 -->
+  <view class='top'>{{txt}}</view>
+  <!-- 消息提示 -->
+  <!-- 骰子布局 -->
+  <view class='layout'>
+  <image src='{{one_img}}'></image>
+  <image src='{{two_img}}'></image>
+  <image src='{{three_img}}'></image>
+  <image src='{{four_img}}'></image>
+  <image src='{{five_img}}'></image>
+  <image src='{{six_img}}'></image>
+  </view>
+  <!-- 骰子布局 -->
+  <!-- 开始按钮 -->
+  <view class='btn' bindtap='enter'>{{msg}}</view>
+  <!-- 开始按钮 -->
+</view>

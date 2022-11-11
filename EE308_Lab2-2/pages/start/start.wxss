@@ -1,0 +1,13 @@
+.backGround{
+  position: absolute;
+  z-index: -1;
+  width: 760rpx; 
+  height: 1500rpx;
+}
+.btn{
+  size:default;
+  font-size: 50rpx;
+  border-radius:20rpx;
+  position: fixed;
+  color:aliceblue;
+}

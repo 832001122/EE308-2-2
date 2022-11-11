@@ -1,0 +1,12 @@
+<view >
+  <!-- 背景图片设置 -->
+  <image class="backGround" src='https://res09.bignox.com/appcenter/cn/taptap-game-image/f816d0441586d2dc2756151aefa423df' >
+  </image>
+  <!-- 背景图片设置 -->
+  <!-- 标题设置 -->
+  <!-- 按钮设置 -->
+  <button class="btn" plain="true" style="left: 197rpx; top: 735rpx;  width: 361rpx; height: 100rpx; color:aliceblue;;" bindtap="goToStandalonePage" bindlongtap="goToStandalonePage">单机模式</button>
+  <button class="btn" plain="true" style="left: 65rpx; top: 903rpx; width: 603rpx; height: 100rpx; color:aliceblue; display: block; box-sizing: border-box">联机模式（未开发）</button>
+  <!-- 按钮设置 -->
+</view>
+

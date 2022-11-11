@@ -1,0 +1,12 @@
+<view >
+  <!-- 背景图片设置 -->
+  <image class="backGround" src='https://res09.bignox.com/appcenter/cn/taptap-game-image/f816d0441586d2dc2756151aefa423df' >
+  </image>
+  <!-- 背景图片设置 -->
+  <!-- 标题设置 -->
+  <!-- 按钮设置 -->
+  <button class="btn" plain="true" style="left: 191rpx; top: 602rpx; color:aliceblue;" bindtap="goToStartPage">开始游戏</button>
+  <button class="btn" plain="true" style="left: 191rpx; top: 740rpx; color:aliceblue;" bindtap="goToRulestPage">游戏规则</button>
+  <button class="btn" plain="true" style="left: 191rpx; top: 879rpx; color:aliceblue;" bindtap="goToHelpPage">帮助</button>
+  <!-- 按钮设置 -->
+</view>

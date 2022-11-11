@@ -1,0 +1,10 @@
+.backGround{
+  position: absolute;
+  z-index: -1;
+  width: 770rpx; 
+  height: 1500rpx;
+}
+.content{
+  font-size: 80rpx;
+  font-family: LiSu;
+}

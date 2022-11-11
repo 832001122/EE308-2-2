@@ -1,0 +1,13 @@
+<view  style="width: 726rpx; height: 1455rpx; display: block; box-sizing: border-box; position: relative; left: 0rpx; top: -2rpx">
+  <!-- 背景图片设置 -->
+  <image class="backGround" src='https://res09.bignox.com/appcenter/cn/taptap-game-image/f816d0441586d2dc2756151aefa423df'>
+  </image>
+  <!-- 背景图片设置 -->
+  <text class="content">
+  <!-- 帮助说明 -->
+目前游戏只开发了单机版，网络联机版正在开发......
+在玩家开始摇骰子时，骰子会处于旋转状态，请玩家记得点击停止，如果骰子出现空白现象，请耐心等待，系统会将自动显示结果。
+在小程序首页可使用小程序的分享功能。
+  <!-- 帮助说明 -->
+  </text>
+</view>

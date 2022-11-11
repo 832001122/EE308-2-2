@@ -1,0 +1,7 @@
+/* pages/rules/rules.wxss */
+.backGround{
+  position: absolute;
+  z-index: -1;
+  width: 770rpx; 
+  height: 1500rpx;
+}

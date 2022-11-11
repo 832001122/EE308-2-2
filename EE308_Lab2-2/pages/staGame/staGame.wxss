@@ -1,0 +1,31 @@
+.backGround{
+  position: absolute;
+  z-index: -1;
+  width: 770rpx; 
+  height: 1500rpx;
+}
+.top{
+  width: 220px;
+  height: 30px;
+  font-size: 25px;
+  margin: 20px auto;
+}
+.layout image{
+   margin-top: -20rpx;
+   margin-left: 25rpx;
+   width: 100px;
+   height: 100px;
+   padding-left: 25px;
+   padding-top: 50px;
+}
+.btn{
+  width:100%;
+  height:60px;
+  background:#f30428;
+  color:aliceblue;
+  border-radius: 10px;
+  line-height: 60px;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 30px;
+}
